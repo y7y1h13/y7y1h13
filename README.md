@@ -4,7 +4,7 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=y7y1h13&show_icons=true&theme=dark)
 
 현재 학습중..
-> Spark
-> Python
-> Algorithm
-> 데이터 중심 애플리케이션 설계 책 학습
+> - Spark
+- Python
+- Algorithm
+- 데이터 중심 애플리케이션 설계 책 학습
