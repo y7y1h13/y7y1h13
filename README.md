@@ -5,6 +5,6 @@
 
 현재 학습중..
 > - Spark
-- Python
-- Algorithm
-- 데이터 중심 애플리케이션 설계 책 학습
+>- Python
+>- Algorithm
+>- 데이터 중심 애플리케이션 설계 책 학습
