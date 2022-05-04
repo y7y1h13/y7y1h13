@@ -1,3 +1,3 @@
-- 👋 안녕하세요 저는 유현민입니다.
-- 👀 저는 데이터엔지니어링에 관심이있어요
-- 🌱 최근에 파이썬과 알고리즘 공부를 하고 있어요
+👋 안녕하세요
+저는 데이터엔지니어를 꿈꾸고 있는 유현민 입니다!!
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=y7y1h13&show_icons=true&theme=dark)
