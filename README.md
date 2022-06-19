@@ -5,10 +5,9 @@
 [![Solved.ac
 Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=y7y1h13)](https://solved.ac/y7y1h13)
 ## Learning...
->- Spark
 >- Python
 >- Algorithm
->- 데이터 중심 애플리케이션 설계 책 학습
+>- 공공 api를 이용한 DW 및 BI 대시보드 구축
 
 ## Skills
 ![Python](https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=Python&logoColor=white)
