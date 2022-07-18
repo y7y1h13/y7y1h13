@@ -12,8 +12,10 @@ Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=y7y1h13)](https://sol
 ## Skills
 ![Python](https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=Python&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=MySQL&logoColor=white)
-![Apache Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C.svg?style=for-the-badge&logo=Apache%20Spark&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624.svg?style=for-the-badge&logo=Linux&logoColor=white)
+![AWS](https://img.shields.io/badge/aws-232F3E.svg?style=for-the-badge&logo=aws&logoColor=white)
+![Elastic](https://img.shields.io/badge/Elastic-005571.svg?style=for-the-badge&logo=Elastic&logoColor=white)
+
 
 ## Contacts
 [![Velog](https://img.shields.io/badge/Velog-20C997.svg?style=flat-square&logo=Velog&logoColor=white&link=velog.io/y7y1h13)](velog.io/y7y1h13)
