@@ -7,7 +7,7 @@ Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=y7y1h13)](https://sol
 ## Learning...
 >- Python
 >- Algorithm
->- 공공 api를 이용한 DW 및 BI 대시보드 구축
+>- 카프카를 이용한 포르자 호라이즌5 데이터 실시간 처리 및 시각화
 
 ## Skills
 ![Python](https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=Python&logoColor=white)
