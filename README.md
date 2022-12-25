@@ -4,17 +4,8 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=y7y1h13&show_icons=true&theme=radical&card_width=60)
 [![Solved.ac
 Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=y7y1h13)](https://solved.ac/y7y1h13)
-## Learning...
->- Python
->- Algorithm
->- 카프카를 이용한 포르자 호라이즌5 데이터 실시간 처리 및 시각화
 
-## Skills
-![Python](https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=Python&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=MySQL&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624.svg?style=for-the-badge&logo=Linux&logoColor=white)
-![AWS](https://img.shields.io/badge/aws-232F3E.svg?style=for-the-badge&logo=aws&logoColor=white)
-![Elastic](https://img.shields.io/badge/Elastic-005571.svg?style=for-the-badge&logo=Elastic&logoColor=white)
+
 
 
 ## Contacts
